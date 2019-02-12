@@ -10,5 +10,5 @@ Made By Lhamed
 
 Email : Lhamed.ludologist@gmail.com 
 
-Blog : Lhamed.Github.io 
+Blog : https://lhamed.github.io
 

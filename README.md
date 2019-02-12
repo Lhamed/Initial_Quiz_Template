@@ -6,3 +6,9 @@ Made By Lhamed
 
 공개 목적은 제 공부를 위한 지적과 조언을 받기 위함입니다. 
 
+다양하 형태로 조언을 전해주세요 .
+
+Email : Lhamed.ludologist@gmail.com 
+
+Blog : Lhamed.Github.io 
+

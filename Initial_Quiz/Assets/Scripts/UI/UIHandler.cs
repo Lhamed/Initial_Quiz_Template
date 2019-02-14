@@ -34,6 +34,10 @@ public class UIHandler
         //todo do some stuff
     }
 
+    /// <summary>
+    /// TODO Need To Call If Scene Changed....
+    /// Destory this instance.
+    /// </summary>
     public void Destory()
     {
         //todo do some stuff

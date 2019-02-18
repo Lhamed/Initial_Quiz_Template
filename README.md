@@ -14,3 +14,7 @@ Email : Lhamed.ludologist@gmail.com
 
 Blog : https://lhamed.github.io
 
+# Developement Log
+
+### 2019_02_19 Lham : 메인 퀴즈 시스템에서 유아이 핸들러 사용 , 다음에는 Node.js 기반의 Parse.com 서버를 파서 Google Spread Sheet 가 수정될 때마다 그걸 받아서 저장하는 서버 만들어보자. ( 후에는 그걸 json 형태로 념겨주도록 ) 
+

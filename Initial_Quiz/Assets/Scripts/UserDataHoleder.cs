@@ -4,6 +4,10 @@
 /// </summary>
 public class UserDataHoleder
 {
+    public string NickName;
 
+    public string ScoreBigIntAsString;
+
+    public string CompletedQuizDictionaryAsJson;
 }
 
